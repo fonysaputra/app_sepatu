@@ -1022,9 +1022,9 @@ acorn-walk@^6.0.1:
   integrity sha512-7evsyfH1cLOCdAzZAd43Cic04yKydNx0cF+7tiA19p1XnLLPU4dpCQOqpjqwokFe//vS0QqfqqjCS2JkiIs0cA==
 
 acorn@^5.5.3:
-  version "5.7.3"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.3.tgz#67aa231bf8812974b85235a96771eb6bd07ea279"
-  integrity sha512-T/zvzYRfbVojPWahDsE5evJdHb3oJoQfFbsrKM7w5Zcs++Tr257tia3BmMP8XYVjp1S9RZXQMh7gao96BlqZOw==
+  version "5.7.4"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.4.tgz#3e8d8a9947d0599a1796d10225d7432f4a4acf5e"
+  integrity sha512-1D++VG7BhrtvQpNbBzovKNc1FLGGEE/oGe7b9xJm/RFHMBeUaUGpluV9RLjZa47YFdPcDAenEYuq9pQPcMdLJg==
 
 acorn@^6.0.1:
   version "6.2.1"
@@ -5586,6 +5586,11 @@ react-native-cardview@^2.0.3:
   dependencies:
     prop-types "^15.6.0"
 
+react-native-ckeditor@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/react-native-ckeditor/-/react-native-ckeditor-1.0.2.tgz#fae4a7f8d61bf1bc36ea39e59a4cf463f574ed41"
+  integrity sha512-UlcFokGHkZS1rI+SPYeqYpyij/Xf72X2r2hf+pCTU6eDiHJvy/4HZvkwW4jOCnrNpXO00KqNKSs2xXKCx3pbHg==
+
 react-native-datepicker@^1.7.2:
   version "1.7.2"
   resolved "https://registry.yarnpkg.com/react-native-datepicker/-/react-native-datepicker-1.7.2.tgz#58d0822591a0ac9b32aba082650222a0ee29669d"
@@ -5669,7 +5674,7 @@ react-native-loading-spinner-overlay@^1.0.1:
   dependencies:
     prop-types "^15.6.2"
 
-react-native-locale@^0.0.19:
+react-native-locale@0.0.19:
   version "0.0.19"
   resolved "https://registry.yarnpkg.com/react-native-locale/-/react-native-locale-0.0.19.tgz#336842dfb97510a539f98a39331fb7430acdc498"
   integrity sha512-US+249Sl2PhFcM0k/yU7RFwK8eiU0Qh8vHTZGF4xw5VnhJyDu2oOn3x8Gshb4X+Xyx9AxSTkib280QROnjPFzQ==
