@@ -2996,9 +2996,9 @@ hoist-non-react-statics@^3.0.1, hoist-non-react-statics@^3.3.0:
     react-is "^16.7.0"
 
 hosted-git-info@^2.1.4:
-  version "2.7.1"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.7.1.tgz#97f236977bd6e125408930ff6de3eec6281ec047"
-  integrity sha512-7T/BxH19zbcCTa8XkMlbK5lTo1WtgkFi3GvdWEyNuc4Vex7/9Dqbnpsf4JMydcfj9HCg4zUWFTL3Za6lapg5/w==
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
+  integrity sha512-mxIDAb9Lsm6DoOJ7xH+5+X4y1LU/4Hi50L9C5sIswK3JzULS4bwk1FvjdBgvYR4bzT4tuUQiC15FE2f5HbLvYw==
 
 html-encoding-sniffer@^1.0.2:
   version "1.0.2"
@@ -5586,6 +5586,11 @@ react-native-cardview@^2.0.3:
   dependencies:
     prop-types "^15.6.0"
 
+react-native-ckeditor@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/react-native-ckeditor/-/react-native-ckeditor-1.0.2.tgz#fae4a7f8d61bf1bc36ea39e59a4cf463f574ed41"
+  integrity sha512-UlcFokGHkZS1rI+SPYeqYpyij/Xf72X2r2hf+pCTU6eDiHJvy/4HZvkwW4jOCnrNpXO00KqNKSs2xXKCx3pbHg==
+
 react-native-datepicker@^1.7.2:
   version "1.7.2"
   resolved "https://registry.yarnpkg.com/react-native-datepicker/-/react-native-datepicker-1.7.2.tgz#58d0822591a0ac9b32aba082650222a0ee29669d"
@@ -5669,7 +5674,7 @@ react-native-loading-spinner-overlay@^1.0.1:
   dependencies:
     prop-types "^15.6.2"
 
-react-native-locale@^0.0.19:
+react-native-locale@0.0.19:
   version "0.0.19"
   resolved "https://registry.yarnpkg.com/react-native-locale/-/react-native-locale-0.0.19.tgz#336842dfb97510a539f98a39331fb7430acdc498"
   integrity sha512-US+249Sl2PhFcM0k/yU7RFwK8eiU0Qh8vHTZGF4xw5VnhJyDu2oOn3x8Gshb4X+Xyx9AxSTkib280QROnjPFzQ==
