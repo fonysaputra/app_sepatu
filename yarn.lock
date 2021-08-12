@@ -5282,9 +5282,9 @@ path-key@^2.0.0, path-key@^2.0.1:
   integrity sha1-QRyttXTFoUDTpLGRDUDYDMn0C0A=
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-to-regexp@^1.7.0:
   version "1.7.0"
@@ -5586,6 +5586,11 @@ react-native-cardview@^2.0.3:
   dependencies:
     prop-types "^15.6.0"
 
+react-native-ckeditor@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/react-native-ckeditor/-/react-native-ckeditor-1.0.2.tgz#fae4a7f8d61bf1bc36ea39e59a4cf463f574ed41"
+  integrity sha512-UlcFokGHkZS1rI+SPYeqYpyij/Xf72X2r2hf+pCTU6eDiHJvy/4HZvkwW4jOCnrNpXO00KqNKSs2xXKCx3pbHg==
+
 react-native-datepicker@^1.7.2:
   version "1.7.2"
   resolved "https://registry.yarnpkg.com/react-native-datepicker/-/react-native-datepicker-1.7.2.tgz#58d0822591a0ac9b32aba082650222a0ee29669d"
@@ -5669,7 +5674,7 @@ react-native-loading-spinner-overlay@^1.0.1:
   dependencies:
     prop-types "^15.6.2"
 
-react-native-locale@^0.0.19:
+react-native-locale@0.0.19:
   version "0.0.19"
   resolved "https://registry.yarnpkg.com/react-native-locale/-/react-native-locale-0.0.19.tgz#336842dfb97510a539f98a39331fb7430acdc498"
   integrity sha512-US+249Sl2PhFcM0k/yU7RFwK8eiU0Qh8vHTZGF4xw5VnhJyDu2oOn3x8Gshb4X+Xyx9AxSTkib280QROnjPFzQ==
